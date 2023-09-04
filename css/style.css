@@ -18,8 +18,8 @@ h1 {
 }
 
 .container {
-  width: 620px;
-  max-width: 620px;
+  width: 630px;
+  max-width: 640px;
   display: flex;
   background-color: white;
   margin: auto;
